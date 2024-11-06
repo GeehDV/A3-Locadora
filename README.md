@@ -11,7 +11,7 @@ Organização do Catálogo
   
 Sistema de Busca e Filtro
 - O usuário pode buscar filmes específicos ou filtrar por categoria, ano de lançamento, e classificação, aprimorando a experiência de descoberta de novos títulos.
-- 
+  
 Gestão de Usuários
 - Cada cliente possui um perfil que guarda o histórico de locações, possibilitando acesso fácil aos filmes já alugados e sugestões baseadas em suas preferências.
 
